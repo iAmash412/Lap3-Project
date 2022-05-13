@@ -53,6 +53,6 @@ Users should be able to view a high scores list
 
 ## Contributors
 
--
-- [Albert St]
+- [Thayaan Srisathialingam]
+- [Albert Stoykov] https://github.com/AlbertStoykov
 - [Aafthab Ashraff](https://github.com/iAmash412)
